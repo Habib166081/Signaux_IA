@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/">
+    <file>play_white.PNG</file>
+    <file>play_black.PNG</file>
+
+    <file>stop_white.PNG</file>
+    <file>stop_black.PNG</file>
+
+
+    <file>folder.png</file>
+    <file>logo.PNG</file>
+
+  </qresource>
+</RCC>
